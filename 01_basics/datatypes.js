@@ -41,3 +41,37 @@ const myfunction = function(){
 }
 
 console.log(typeof bignumber)
+
+console.log(myobj)
+console.log(myfunction)
+console.log(heroes)
+
+
+
+//==+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++MEMEORY++++++++++++++++++++++++++/********************** */
+// STACK IN (PRIMITIVE ) , HEAP (NON PRIMITIVE)
+
+
+let myyoutubemain = "fjfbe"
+
+let anothername = myyoutubemain
+anothername = "chai aur code"
+
+console.log(anothername)
+console.log(myyoutubemain) // like python reference getting stored actual value not getiing changed 
+
+
+
+let usderone = {
+    emial : "dhbf",
+    upi : "bkgfgfgbj"
+     }
+
+
+
+let usertwo = usderone
+
+usertwo.emial = 'jsfhvbhr'
+
+console.log(usderone.emial)  // original value changed  not referncde created 
+console.log(usertwo.emial)
