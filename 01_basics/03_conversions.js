@@ -55,3 +55,6 @@ num1 = num2 = num3 = 2+2
 let gamecounter = 100
 gamecounter++; //prefix and postfix  js and mdn 
 console.log(gamecounter)
+
+
+
