@@ -2,7 +2,7 @@
 
 (function chai (){
     console.log("db connected ")
-})()  // immediately always functio works using this type of the synatx this iife 
+})()  // immediately always functio works using this type of the synatx this iife to use the function immediately iffy used like the curly braces used like this as shown 
 // it is used to handle the problem of the global scope pollution problem handlign in the good way 
 // semicolon to be used always
 
