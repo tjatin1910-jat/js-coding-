@@ -62,7 +62,7 @@ console.log(instructor);   // destructure  learn more
 
 // {
 //     "name" : "jatin",
-//     "coursename" : "jshindi",    data from the json 
+//     "coursename" : "jshindi",    data from the json :
 //     "price" : "free"
 // }
 
